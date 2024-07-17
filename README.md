@@ -1,5 +1,7 @@
 # Recipe Search and Recommendation Starter Repo
 
+![recipe image](images/header.jpg)
+
 Author: Daniel Burdeno -- Lead Data Science Instructor -- Flatiron School
 
 ## Overview
