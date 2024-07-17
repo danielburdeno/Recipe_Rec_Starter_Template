@@ -6,11 +6,11 @@ Author: Daniel Burdeno -- Lead Data Science Instructor -- Flatiron School
 
 ## Overview
 
-This repository can be used as a starting base to follow along for a streamlit demo/lesson using a recipe dataset to produce recipes based on ingredient and tag selection as well as conduct basic content similarity comparison and recommendation. In this reposistory are provided data files and a requirements file in order to reproduce the python coding environments
+This repository can be used as a starting base to follow along for a streamlit demo/lesson using a recipe dataset to produce recipes based on ingredient and tag selection as well as conduct basic content similarity comparison and recommendation. In this reposistory are provided cleaned data files and a requirements file in order to reproduce the python coding environment.
 
 ## Environment Setup
 
-Anaconda or a similar environment and package manager will be need to setup. Streamlit utilizes pip to setup and install dependicies via it's cloud platform so will be using a requirements.txt file to document and denote package and environment information.
+Anaconda or a similar environment and package manager will be need to setup. Streamlit utilizes pip to setup and install dependicies via it's cloud platform so we will be using a requirements.txt file to document and denote package and environment information.
 
 To setup the corresponding environment via conda:
 - Step 1: Create environment with pip (feel free to give it a different name)
